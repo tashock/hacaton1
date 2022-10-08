@@ -1,0 +1,38 @@
+[
+    {
+        "name": "GeForce_RTX_3060",
+        "id": 1,
+        "Price": 600,
+        "Date_upload": "2022-10-2",
+        "Date_update": "2022-10-2",
+        "Description": "GeForce RTX 3060 Ti RTX 3060.",
+        "Status": "For sale"
+    },
+    {
+        "name": "GeForce_RTX_3090",
+        "id": 2,
+        "Price": 100,
+        "Date_upload": "2022-10-5",
+        "Date_update": "2022-10-5",
+        "Description": "GeForce RTX 3090 Ti RTX 3090.",
+        "Status": "For sale"
+    },
+    {
+        "name": "GeForce_RTX_3070",
+        "id": 3,
+        "Price": 200,
+        "Date_upload": "2022-10-7",
+        "Date_update": "2022-10-7",
+        "Description": "GeForce RTX 3070 Ti RTX 3070.",
+        "Status": "For sale"
+    },
+    {
+        "id": 4,
+        "name": "bloody",
+        "Price": "22",
+        "Date_upload": "2022-10-08",
+        "Date_update": "2022-10-08",
+        "description": "mouse",
+        "Status": "For sale"
+    }
+]
